@@ -1,0 +1,27 @@
+dependencies used :
+
+PyMuPDF
+Pillow
+PyMuPDF2
+Spacy
+
+Run the following commands in CMD to install above dependencies -
+
+pip install PyMuPDF
+pip install PyPDF2
+pip install Pillow
+pip install spacy
+python -m spacy download en_core_web_lg
+
+
+Note: Before running the code, ensure that you have specified the correct path for the input file.
+
+
+
+
+
+
+
+
+
+
